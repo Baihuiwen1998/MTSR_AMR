@@ -1,0 +1,1 @@
+Code of the two-stage hybrid solution and other benchmarks introduced in submitted paper "Order sequencing, tote scheduling, and robot routing optimization in multi-tote storage and retrieval autonomous mobile robot systems"
